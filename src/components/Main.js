@@ -12,4 +12,4 @@ export class Main extends Component {
     return <PlayersPresentation players={this.state.players}/>
   }
 }
-export default Main
+export default Main;
