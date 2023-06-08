@@ -116,3 +116,7 @@ button:hover{
   max-height: 30%;
   overflow: auto;
 }
+#openPopUp{
+  color: white;
+  text-decoration: none;
+}
